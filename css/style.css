@@ -1,0 +1,67 @@
+header{
+	background:#fff;
+}
+
+h1{
+	background: #D800FF;
+	color:white;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.subtitulo{
+	color: yellow;
+
+}
+
+.link{
+	color:pink;
+	text-decoration: none;
+}
+
+.parrafo1{
+	background: #F7FF00;
+	color:#ED1C24;
+	font-family: 'Concert One', cursive;
+	line-height: 2.1;
+	font-size: 2em;
+	text-shadow: 10px 10px 5px black;
+}
+
+.parrafo2{
+	background: #51FF00;
+	color:#8EA604;
+	font-family: 'Anton', sans-serif;
+
+}
+
+.parrafo3{
+	background: #FF0068;
+	color:#370926;
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+body{
+	font-size: 15px;
+}
+
+.icono{
+	font-size: 100px;
+}
+
+.facebook{
+	color: #3b5998;
+}
+
+.twitter{
+	color:#55acee;
+}
+
+.instagram{
+	color:#125688;
+}
+
+ul{
+	display: inline-block;
+}
